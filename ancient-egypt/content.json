@@ -1,57 +1,57 @@
 {
-  name: '古埃及二次元'
-, author: {
-    name: 'Josh Ln'
+  "name": "古埃及二次元"
+, "author": {
+    "name": "Josh Ln"
   }
-, description: '插画家Josh Ln 认为我们大部分二次元亚文化源自古埃及壁画。'
-, images: [
-    { src: './images/0.jpeg'
-    , width: 818
-    , height: 1052
+, "description": "插画家Josh Ln 认为我们大部分二次元亚文化源自古埃及壁画。"
+, "images": [
+    { "src": "./images/0.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/1.jpeg'
-    , width: 950
-    , height: 1221
+  , { "src": "./images/1.jpeg"
+    , "width": 950
+    , "height": 1221
     }
-  , { src: './images/2.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/2.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/3.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/3.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/4.jpeg'
-    , width: 950
-    , height: 1221
+  , { "src": "./images/4.jpeg"
+    , "width": 950
+    , "height": 1221
     }
-  , { src: './images/5.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/5.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/6.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/6.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/7.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/7.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/8.jpeg'
-    , width: 818
-    , height: 1052
+  , { "src": "./images/8.jpeg"
+    , "width": 818
+    , "height": 1052
     }
-  , { src: './images/9.jpeg'
-    , width: 667
-    , height: 857
+  , { "src": "./images/9.jpeg"
+    , "width": 667
+    , "height": 857
     }
-  , { src: './images/10.jpeg'
-    , width: 950
-    , height: 1221
+  , { "src": "./images/10.jpeg"
+    , "width": 950
+    , "height": 1221
     }
-  , { src: './images/11.jpeg'
-    , width: 667
-    , height: 857
+  , { "src": "./images/11.jpeg"
+    , "width": 667
+    , "height": 857
     }
   ]
 }
